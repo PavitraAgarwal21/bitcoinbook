@@ -93,7 +93,7 @@ Each of these stories is based on the real people and real industries currently 
 
 === Getting Started
 
-((("getting started", "wallet selection", id="GSwallet01")))((("wallets", "selecting", id="Wselect01")))((("bitcoin", "getting started", id="BCbasic01")))Bitcoin is a protocol that can be accessed using a client application that speaks the protocol. A "Bitcoin wallet" is the most common user interface to the Bitcoin system, just like a web browser is the most common user interface for the HTTP protocol. There are many implementations and brands of Bitcoin wallets, just like there are many brands of web browsers (e.g., Chrome, Safari, Firefox, and Internet Explorer). And just like we all have our favorite browsers (Mozilla Firefox, Yay!) and our villains (Internet Explorer, Yuck!), Bitcoin wallets vary in quality, performance, security, privacy, and reliability. There is also a reference implementation of the Bitcoin protocol that includes a wallet, known as the "Satoshi Client" or "Bitcoin Core," which is derived from the original implementation written by Satoshi Nakamoto.
+((("getting started", "wallet selection", id="GSwallet01")))((("wallets", "selecting", id="Wselect01")))((("bitcoin", "getting started", id="BCbasic01")))Bitcoin is a protocol that can be accessed using a client application that speaks the protocol. A "Bitcoin wallet" is the most common user interface to the Bitcoin system, just like a web browser is the most common user interface for the HTTP protocol. There are many implementations and brands of Bitcoin wallets, just like there are many brands of web browsers (e.g., Chrome, Safari, Firefox, and Internet Explorer). And just like we all have our favorite browsers (Mozilla Firefox, Yay!) and our villains (Internet Explorer, Yuck!), Bitcoin wallets vary in quality, performance, security, privacy, and reliability. `There is also a reference implementation of the Bitcoin protocol that includes a wallet, known as the "Satoshi Client" or "Bitcoin Core," which is derived from the original implementation written by Satoshi Nakamoto`.
 
 ==== Choosing a Bitcoin Wallet
 
@@ -102,7 +102,7 @@ Each of these stories is based on the real people and real industries currently 
 [role="pagebreak-before"]
 Bitcoin wallets can be categorized as follows, according to the platform:
 
-Desktop wallet:: A desktop wallet was the first type of Bitcoin wallet created as a reference implementation and many users run desktop wallets for the features, autonomy, and control they offer. Running on general-use operating systems such as Windows and Mac OS has certain security disadvantages, however, as these platforms are often insecure and poorly configured.
+Desktop wallet:: `A desktop wallet was the first type of Bitcoin wallet created as a reference implementation` and many users run desktop wallets for the features, autonomy, and control they offer. `Running on general-use operating systems such as Windows and Mac OS has certain security disadvantages, however, as these platforms are often insecure and poorly configured`.
 
 Mobile wallet:: A mobile wallet is the most common type of Bitcoin wallet. Running on smart-phone operating systems such as Apple iOS and Android, these wallets are often a great choice for new users. Many are designed for simplicity and ease-of-use, but there are also fully featured mobile wallets for power users.
 
